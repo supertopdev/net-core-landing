@@ -28,3 +28,8 @@ D:\ASP.Net Core\net\MySite\obj\Debug\netcoreapp2.2\MySite.Views.pdb
 D:\ASP.Net Core\net\MySite\obj\Debug\netcoreapp2.2\MySite.dll
 D:\ASP.Net Core\net\MySite\obj\Debug\netcoreapp2.2\MySite.pdb
 D:\ASP.Net Core\net\MySite\obj\Debug\netcoreapp2.2\MySite.csproj.CopyComplete
+D:\ASP.Net Core\net\MySite\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Create.g.cshtml.cs
+D:\ASP.Net Core\net\MySite\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Delete.g.cshtml.cs
+D:\ASP.Net Core\net\MySite\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Details.g.cshtml.cs
+D:\ASP.Net Core\net\MySite\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Edit.g.cshtml.cs
+D:\ASP.Net Core\net\MySite\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Index.g.cshtml.cs
